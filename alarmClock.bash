@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-sudo python /home/pi/scripts/AlarmClock.py 
+sudo python /home/pi/Scripts/AlarmClock.py 
